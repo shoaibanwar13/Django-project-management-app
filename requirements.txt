@@ -1,0 +1,10 @@
+fastapi==0.99.1
+uvicorn==0.22.0
+textblob==0.15.3
+pattern==3.6
+jieba==0.42.1
+nltk==3.8.1
+language-tool-python==2.7.1
+pyspellchecker==0.6.0
+mangum==0.17.0
+
